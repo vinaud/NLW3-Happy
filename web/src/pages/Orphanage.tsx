@@ -23,7 +23,7 @@ export default function Orphanage() {
 
   return (
     <div id="page-orphanage">
-      <Sidebar></Sidebar>>
+      <Sidebar></Sidebar> 
 
       <main>
         <div className="orphanage-details">
